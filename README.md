@@ -1,3 +1,10 @@
+# Timing Side-Channel Attacks
+
+**Discalimer1**: This repository is my implementation of the 3rd homwwork for the **Hardware Security** course at ETHZ. If you are taking this course, please don't go further.
+
+**Disclaimer2**: The encrpytion library is not my own work. All rights shall be reserved for the authors.
+
+
 The goal of this assignment is to leak the private key used to encrypt the
 secret from the cache. Herbert wrote his own encryption library called hjbcrypt
 to sign data with. We can sign our own data using hjb_sign_data(), which is
